@@ -28,22 +28,28 @@ A Flutter social feed application built with Clean Architecture principles.
 
 <div align="center">
 
-### Splash Screen
-
-<img src="screenshots/splash_screen.png" width="300" alt="Splash Screen">
-
-### Feed Screen
-
-<img src="screenshots/feed_screen.png" width="300" alt="Feed Screen">
-
-### Post Creation
-
-<img src="screenshots/post_creation.png" width="300" alt="Post Creation">
-
-### Comments
-
-<img src="screenshots/comments.png" width="300" alt="Comments">
-<img src="screenshots/comments1.png" width="300" alt="Comments">
+<table>
+<tr>
+<td><img src="screenshots/splash_screen.png" width="200" alt="Splash Screen"></td>
+<td><img src="screenshots/feed_screen.png" width="200" alt="Feed Screen"></td>
+<td><img src="screenshots/post_creation.png" width="200" alt="Post Creation"></td>
+</tr>
+<tr>
+<td align="center"><b>Splash Screen</b></td>
+<td align="center"><b>Feed Screen</b></td>
+<td align="center"><b>Post Creation</b></td>
+</tr>
+<tr>
+<td><img src="screenshots/comments.png" width="200" alt="Comments"></td>
+<td><img src="screenshots/comments1.png" width="200" alt="Comments"></td>
+<td><img src="screenshots/comments3.png" width="200" alt="Comments"></td>
+</tr>
+<tr>
+<td align="center"><b>Comments</b></td>
+<td align="center"><b>Comments</b></td>
+<td align="center"><b>Comments</b></td>
+</tr>
+</table>
 
 </div>
 
@@ -68,13 +74,16 @@ This project follows **Clean Architecture** principles with clear separation bet
 
 <div align="center">
 
-![Clean Architecture](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/CleanArchitecture.jpg?w=772&ssl=1)
-
-_Source: [ResoCoder](https://resocoder.com)_
-
-![Clean Architecture Flutter](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
-
-_Source: [ResoCoder](https://resocoder.com)_
+<table>
+<tr>
+<td><img src="https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/CleanArchitecture.jpg?w=772&ssl=1" width="350" alt="Clean Architecture"></td>
+<td><img src="https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1" width="350" alt="Clean Architecture Flutter"></td>
+</tr>
+<tr>
+<td align="center"><i>Source: <a href="https://resocoder.com">ResoCoder</a></i></td>
+<td align="center"><i>Source: <a href="https://resocoder.com">ResoCoder</a></i></td>
+</tr>
+</table>
 
 </div>
 
