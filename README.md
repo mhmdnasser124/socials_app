@@ -24,6 +24,31 @@ A Flutter social feed application built with Clean Architecture principles.
 
 ---
 
+## Screenshots
+
+<div align="center">
+
+### Splash Screen
+
+<img src="screenshots/splash_screen.png" width="300" alt="Splash Screen">
+
+### Feed Screen
+
+<img src="screenshots/feed_screen.png" width="300" alt="Feed Screen">
+
+### Post Creation
+
+<img src="screenshots/post_creation.png" width="300" alt="Post Creation">
+
+### Comments
+
+<img src="screenshots/comments.png" width="300" alt="Comments">
+<img src="screenshots/comments1.png" width="300" alt="Comments">
+
+</div>
+
+---
+
 ## Overview
 
 Social feed platform where users can:
