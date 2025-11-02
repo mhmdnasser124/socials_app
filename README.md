@@ -32,30 +32,32 @@ A Flutter social feed application built with Clean Architecture principles.
 <tr>
 <td><img src="screenshots/splash_screen.png" width="180" alt="Splash Screen"></td>
 <td><img src="screenshots/feed_screen.png" width="180" alt="Feed Screen"></td>
-<td><img src="screenshots/post_creation.png" width="180" alt="Post Creation 1"></td>
+<td><img src="screenshots/post_creation.png" width="180" alt="Post Creation"></td>
+</tr>
+<tr>
+<td align="center"><b>Splash Screen</b></td>
+<td align="center"><b>Feed Screen</b></td>
+<td align="center"><b>Post Creation</b></td>
+</tr>
+<tr>
+<td><img src="screenshots/post_creation1.png" width="180" alt="Post Creation 1"></td>
 <td><img src="screenshots/post_creation2.png" width="180" alt="Post Creation 2"></td>
 <td><img src="screenshots/post_creation3.png" width="180" alt="Post Creation 3"></td>
 </tr>
 <tr>
-<td align="center"><b>Splash</b></td>
-<td align="center"><b>Feed</b></td>
-<td align="center"><b>Post 1</b></td>
-<td align="center"><b>Post 2</b></td>
-<td align="center"><b>Post 3</b></td>
+<td align="center"><b>Post Creation 1</b></td>
+<td align="center"><b>Post Creation 2</b></td>
+<td align="center"><b>Post Creation 3</b></td>
 </tr>
 <tr>
-<td><img src="screenshots/comments.png" width="180" alt="Comments 1"></td>
-<td><img src="screenshots/comments2.png" width="180" alt="Comments 2"></td>
-<td><img src="screenshots/comments3.png" width="180" alt="Comments 3"></td>
-<td></td>
-<td></td>
+<td><img src="screenshots/comments.png" width="180" alt="Comments"></td>
+<td><img src="screenshots/comments1.png" width="180" alt="Comments 1"></td>
+<td><img src="screenshots/comments3.png" width="180" alt="Comments 2"></td>
 </tr>
 <tr>
+<td align="center"><b>Comments</b></td>
 <td align="center"><b>Comments 1</b></td>
 <td align="center"><b>Comments 2</b></td>
-<td align="center"><b>Comments 3</b></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 
